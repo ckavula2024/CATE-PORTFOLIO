@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../cate"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Trial 2"
+	}
+}
